@@ -1,0 +1,216 @@
+/*tablets 728-960*/
+@media screen and (max-width: 960px){
+	.container{
+		width: 90%;
+	}
+
+	.header__logo {
+    	width: 35px;
+    	margin-right: 187px;
+   	}
+
+   	.email{
+   		display: none;
+   		
+   	}
+
+   	.header__text-block {
+
+       padding-top: 19%;
+   }
+
+   .header__menu{
+	    margin: 0 0 0 0%;
+	    padding: 0 0 0 0%;
+   }
+
+   .list__item {
+   	    margin-right: 21px;
+		margin-left: 38px;
+  	}
+
+  	.my-work__code-frontend {
+	    margin: 57px 0 0 0;
+	}
+
+	.about-me__text{
+		width: 50%;
+	}
+
+	.about-me__achivements {
+	    float: left;
+	    width: 100%;
+	}
+
+	.achivements__list {
+	    margin: 0 auto;
+	    width: 71%;
+	}
+
+	.about-me__connection{
+		width: 100%;
+	}
+
+	.about-me__connection-without-header {
+	    width: 72%;
+	    margin: 0 auto;
+	}
+
+	.skills__list{
+		width: 71%;
+	    margin: 0 auto;
+	    padding: 5% 0 0 0;
+
+	}
+
+	.skills__item {
+	    /* margin: 0 8% 8% auto; */
+	    width: 41%;
+	}
+
+	.works__list{
+		width: 300px;
+		padding-top: 5%;
+		margin: 3% auto;
+	}
+
+	.works__item {
+      margin: 3% auto;
+	}
+	.footer {
+   	  margin: 10% auto;
+	}
+
+	
+}
+
+/*mobile 0-728*/
+
+@media screen and (max-width: 728px){
+	.container{
+		width: 90%;
+	}
+
+	.header{
+		background: url(../img/header-bg.png) no-repeat 39% top/cover;
+	}
+
+	.header__menu{
+		display: none;
+	}
+
+	.my-work__main-header{
+		font-size: 47px;
+	}
+
+	.about-me__text{
+		width: 71%;
+	}
+
+
+	.about-me__header3{
+		margin-bottom: 10%;
+	}
+
+	.about-me__header3-achivements{
+		margin: 14% auto;
+	}
+
+	.about-me__achivements {
+	    float: left;
+	    width: 100%;
+	}
+
+	.achivements__list {
+	    margin: 0 auto;
+	    width: 100%;
+	   	}
+
+	.achivements__item{
+		width: 100%;
+		float: none;
+		margin-right: 0;
+	}
+
+	.achivements__item:nth-child(1) {
+    	margin-left: 0;
+	}
+
+
+	.achivements__number{
+		width: 100%;
+	}
+
+	.achivements__text {
+    	margin: 0 0 0 0;
+	}
+
+	.connection-list {
+	  margin: 0;
+	 width: 100%;
+	}
+/* margin: 4% 13%; */
+	.about-me__do-not-shy{
+		width: 100%;
+	}
+
+	.do-not-shy__img {
+		margin: 13% 18%;
+	    float: none;
+	}
+
+	.do-not-shy__text {
+	    margin: 4% -1% 22% 0;
+	}
+
+	.skills__list{
+	    padding: 5% 0 0 0;
+	    width: 82%;
+		margin: 0 auto;
+	}
+
+	.skills__item {
+	    margin: 0 8% 8% auto;
+		width: 75%;
+		padding: 10px 0;
+	}
+
+	.skills__number {
+	    margin: 0 8% 8% auto;
+	   
+	}
+
+
+
+	
+	.works__item {
+    	margin: 3% auto;
+	}
+
+	.works__img{
+		margin: 0;
+	}
+
+	.about-me__connection-without-header {
+	    margin: 0 auto;
+		width: 60%;
+		padding: auto;
+		text-align: center;
+	}
+
+/* 	.ul1{
+border:1px solid red;
+width: 80%;
+padding: 0;
+margin: 0 auto;
+}
+
+.li1{
+border:1px solid green;
+width: 50%;
+padding: 0;
+margin: 0 auto;
+} */
+
+}
+
