@@ -93,6 +93,15 @@ p.lead {
   outline-color: #d48a6e;
 }
 
+.content__list{
+  list-style: none;
+}
+
+.content__list li{
+    padding-top: 10px;
+    margin-left: -40px;
+}
+
 @media (min-width: 992px) {
   #sideNav {
     text-align: center;
