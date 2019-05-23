@@ -153,11 +153,23 @@ section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
   max-width: 75rem;
+
 }
 
 section.resume-section .resume-item .resume-date {
   min-width: none;
 }
+
+
+.content__list{
+  list-style: none;
+}
+
+.content__list li{
+    padding-top: 10px;
+    margin-left: -40px;
+}
+
 
 @media (min-width: 768px) {
   section.resume-section {
