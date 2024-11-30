@@ -11,7 +11,7 @@
 
    	.email{
    		display: none;
-   		
+
    	}
 
    	.header__text-block {
@@ -81,7 +81,7 @@
    	  margin: 10% auto;
 	}
 
-	
+
 }
 
 /*mobile 0-728*/
@@ -177,12 +177,12 @@
 
 	.skills__number {
 	    margin: 0 8% 8% auto;
-	   
+
 	}
 
 
 
-	
+
 	.works__item {
     	margin: 3% auto;
 	}
@@ -197,20 +197,5 @@
 		padding: auto;
 		text-align: center;
 	}
-
-/* 	.ul1{
-border:1px solid red;
-width: 80%;
-padding: 0;
-margin: 0 auto;
-}
-
-.li1{
-border:1px solid green;
-width: 50%;
-padding: 0;
-margin: 0 auto;
-} */
-
 }
 

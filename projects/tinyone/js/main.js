@@ -1,5 +1,5 @@
 $(function(){
-    
+
 $('.slick').slick({
   dots: true,
   infinite: false,
@@ -7,8 +7,6 @@ $('.slick').slick({
   slidesToShow: 1,
   prevArrow: false,
   nextArrow: false
-  
-  
 });
 });
 
